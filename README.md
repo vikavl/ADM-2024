@@ -10,5 +10,5 @@ This repository contains the solution for **Homework 1** of the course **Algorit
 
 ### Repository Contents
 - **`scripts.ipynb`**: A Jupyter Notebook containing Python solutions to the HACKERRANK challenges specified in Problem 1-2 of the homework assignment.
-- **`submissions.pdf`**: A PDF file containing HACKERRANK submissions.
+- **`stamps.pdf`**: A PDF file containing HACKERRANK submissions.
 
